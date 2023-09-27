@@ -1,0 +1,53 @@
+header img {
+  padding-bottom: 2em;
+  width: 100%;
+  height: 5em;
+  object-fit: contain;
+}
+
+#Contenitore_testo_principale {
+  text-align: center;
+  line-height: normal;
+  background-color: #ffe4c442;
+  margin-top: 0em;
+}
+
+span {
+  font-size: 1.3em;
+  color: rgb(24, 112, 146);
+  border-top: #ffe4c442;
+  margin-top: 0em;
+}
+
+#titolo_ricetta {
+  text-align: center;
+  line-height: normal;
+}
+
+#blocco-descrittivo {
+  margin-left: 30%;
+  margin-right: 30%;
+}
+.focaccia {
+  object-fit: contain;
+}
+
+.prima-riga-descrizione {
+  margin-bottom: 0em;
+  text-align: center;
+}
+
+.seconda-riga-descrizione {
+  margin-top: 0em;
+  text-align: center;
+}
+
+.feature1 {
+  margin-bottom: 0em;
+  margin-top: 0em;
+}
+
+.feature2 {
+  margin-bottom: 0em;
+  margin-top: 0em;
+}
