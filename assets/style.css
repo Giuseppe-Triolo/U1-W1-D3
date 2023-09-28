@@ -10,6 +10,8 @@ header img {
   line-height: normal;
   background-color: #ffe4c442;
   margin-top: 0em;
+  border-top: 2px solid rgba(184, 184, 31, 0.699);
+  margin-bottom: 4rem;
 }
 
 span {
@@ -24,22 +26,36 @@ span {
   line-height: normal;
 }
 
+main {
+  width: 100%;
+  align-items: auto;
+}
+
 #blocco-descrittivo {
-  margin-left: 30%;
-  margin-right: 30%;
+  width: 50%;
+  margin: auto;
+  text-align: left;
 }
+
+h1 {
+  text-align: center;
+  font-size: 2em;
+}
+
 .focaccia {
-  object-fit: contain;
+  width: 100%;
+  height: auto;
 }
 
-.prima-riga-descrizione {
-  margin-bottom: 0em;
+.photo-name {
   text-align: center;
+  color: gray;
+  margin-bottom: 2em;
 }
-
-.seconda-riga-descrizione {
-  margin-top: 0em;
-  text-align: center;
+.features {
+  border-left: 2px solid #a7a744;
+  padding-left: 20px;
+  margin-bottom: 2em;
 }
 
 .feature1 {
