@@ -67,3 +67,21 @@ h1 {
   margin-bottom: 0em;
   margin-top: 0em;
 }
+
+.ingredients-header {
+  font-weight: 200;
+  padding-bottom: 20px;
+  border-bottom: 1px solid aquamarine;
+  margin-bottom: 1em;
+}
+
+ul li {
+  font-size: large;
+  margin-bottom: 20px;
+}
+
+.method {
+  margin-top: 2em;
+  padding-bottom: 20px;
+  border-bottom: 1px solid aquamarine;
+}
